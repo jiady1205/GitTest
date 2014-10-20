@@ -1,3 +1,6 @@
 [submodule "cocos2d-x"]
 	path = cocos2d-x
 	url = git@github.com:jiady1205/cocos2d-x.git
+[submodule "cocostudio/mono"]
+	path = cocostudio/mono
+	url = git@github.com:jiady1205/mono.git
